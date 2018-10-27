@@ -26,7 +26,7 @@ The instances of the client-side assets vary depending on the browser type and u
 
 ## How many instances of the server-side code are available at any given time?
 
-Depending on how the developer builds the server, at any given time, the server-side code instances dare determined by the number of requests a user makes to the server. Sometimes servers are recreated to process a more significant number of requests and to better the data distribution.
+Depending on how the developer builds the server, at any given time, the server-side code instances are determined by the number of requests a user makes to the server. Sometimes servers are recreated to process a more significant number of requests and to better the data distribution.
 
 ## What is runtime?
 
